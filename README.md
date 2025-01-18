@@ -22,7 +22,7 @@ ios shortcuts link
 # you need to run this shortcuts every time you want to interact with the chatgpt, or you can use the default telegram commands but that is without voice input, hotword detection will be added soon.
 ## When you run this shortcuts, the mirror with update with jarvis animation and text saying "say something", you have to speak in the microphone after you see Say something and if the audio was captured successfully, it will update with the spoken text. the listening duration is set to 4 seconds by default, you can adjust this by editing the transcript.py in the MMM-Chat module  mentioned below.
 
-## Install and configure MMM-Chat from here ([ https://github.com/sdmydbr9/MMM-Chat])
+## Install and configure MMM-Chat from here ([ https://github.com/magicmirror-sdmy/MMM-Chat])
 
 ## Install MMM-NotificationTrigger ([https://github.com/MMRIZE/MMM-NotificationTrigger.git])
 ## Add the following lines to the config
@@ -80,7 +80,7 @@ Add the following in your config
 
 
 
-## Clone the following respository ([https://github.com/sdmydbr9/MMM-11-TTS]) in your modules folder and install it according to instruction
+## Clone the following respository ([https://github.com/magicmirror-sdmy/MMM-11-TTS]) in your modules folder and install it according to instruction
 ## edit the main.py and add your api key and voice id, a voice id as already set by default, you can add any voice id, refer elevenlabs api doc for more details.
 
 
